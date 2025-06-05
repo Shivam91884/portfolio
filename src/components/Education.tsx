@@ -42,8 +42,8 @@ const EducationItem: React.FC<EducationItemProps> = ({
 const Education: React.FC = () => {
   const educationItems = [
     {
-      institution: "IIMT Engineering College",
-      degree: "B.tech (AI)",
+      institution: "IIMT College of Engineering",
+      degree: "B.tech CSE(AI)",
       location: "Greater Noida",
       period: "2021 - Present",
       description: "Currently pursuing B.tech in Artificial Intelligence with focus on machine learning, deep learning, and artificial intelligence applications. Current academic performance: 62% (5th Sem)"
