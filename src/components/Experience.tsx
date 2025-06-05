@@ -77,9 +77,9 @@ const Experience: React.FC = () => {
             </div>
           </div>
         </div>
-        <div className="max-w-4xl mx-auto">
-          <div className="bg-white rounded-xl shadow-lg overflow-hidden border border-gray-100">
-            <div className="p-6 md:p-8">
+        <div className="max-w-4xl mx-auto my-5">
+          <div className="bg-white rounded-xl shadow-lg overflow-hidden border border-gray-120" >
+            <div className="p-6 md:p-9">
               <div className="flex flex-col md:flex-row md:items-center justify-between mb-6">
                 <div>
                   <h3 className="text-2xl font-bold text-indigo-800 mb-2">Data Visualization Trainee</h3>
