@@ -89,7 +89,7 @@ const Skills: React.FC = () => {
           <h2 className="text-3xl md:text-4xl font-bold mb-4 text-indigo-900">Skills</h2>
           <div className="w-16 h-1 bg-indigo-500 mx-auto mb-6"></div>
           <p className="text-lg text-gray-700 max-w-3xl mx-auto">
-            My toolkit of technical and soft skills that help me excel in the field of Artificial Intelligence and software development.
+          My toolkit of technical and soft skills empowers me to excel in the field of Data Analysis and data-driven decision-making.
           </p>
         </div>
         
