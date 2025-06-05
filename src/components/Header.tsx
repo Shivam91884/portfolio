@@ -39,11 +39,12 @@ const Header: React.FC = () => {
         
         {/* Desktop menu */}
         <nav className="hidden md:flex space-x-8">
-          {['Home', 'About', 'Education', 'Experience','Projects', 'Skills','Contact',].map((item) => (
+          {['Home', 'About', 'Education', 'Experience','Project', 'Skills','Contact',].map((item) => (
             <a 
               key={item} 
               href={`#${item.toLowerCase()}`} 
               className="text-gray-700 hover:text-indigo-600 transition-colors"
+
             >
               {item}
             </a>
