@@ -29,7 +29,7 @@ const About: React.FC = () => {
                 Data Analyst
               </div>
             </div>
-            <div className="grid grid-cols-2 gap-4 text-gray-700">
+            <div className=" gap-4 text-gray-700 flex flex-col">
               <div className="flex items-center gap-2">
                 <span className="font-semibold">Location:</span>
                 <span>Greater Noida</span>
@@ -50,7 +50,7 @@ const About: React.FC = () => {
           </div>
           <div className="md:w-1/2 order-1 md:order-2 flex justify-center">
             <div className="w-64 h-64 lg:w-80 lg:h-80 rounded-full bg-gradient-to-br from-indigo-600 to-blue-500 shadow-xl flex items-center justify-center text-white text-5xl font-bold">
-            <img src="src/components/pro.png" />
+            <img src="https://drive.google.com/file/d/1IA-kHe4F99ByWflTbxM-kM0VJz26QwYJ/view?usp=drive_link" />
             </div>
           </div>
         </div>
