@@ -14,8 +14,7 @@ const Hero: React.FC = () => {
             Artificial Intelligence Engineering Student
           </h2>
           <p className="text-lg md:text-xl max-w-2xl mb-10 leading-relaxed text-indigo-100 animate-fadeIn animation-delay-400">
-            Adept in Python and demonstrating exceptional aptitude, 
-            I quickly mastered new materials and technologies during my tenure at Skillvoid.
+          Highly motivated individual with a strong foundation in Python, SQL, and Python Libraries, gained through hands-on experience at Anudip Founadtion.  Demonstrated exceptional aptitude for mastering new technologies and a proven ability to quickly learn and apply new skills.  Seeking a challenging role in a tech-driven environment to utilize and further develop my technical capabilities.
           </p>
           <div className="flex flex-wrap justify-center gap-4 mb-16 animate-fadeIn animation-delay-600">
             <a 
